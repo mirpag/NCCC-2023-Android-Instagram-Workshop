@@ -32,4 +32,5 @@ https://docs.google.com/document/d/1JubEXa-uAr-e-RhFfs4qH72-frpboXaU1ssQQcPue-M/
 1. What is the password for the phone’s hotspot?
 1. On 11-05-2019, the user casted to a device. What was the device’s name?
 
-_Answers to the Lab will be published following the workshop._
+## Lab Answers
+https://docs.google.com/document/d/1X1Pf5xO4bgxiUpFYVWzmLFQQFGEy2otGdLmOvmrqml8/edit?usp=sharing
